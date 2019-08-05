@@ -1,1 +1,1 @@
-Firmware for polarimeter described in upcoming publication
+Firmware for polarimeter described in upcoming publication.
