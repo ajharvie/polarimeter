@@ -1,1 +1,1 @@
-Firmware for polarimeter described in upcoming publication.
+Firmware for polarimeter described in upcoming publication. Code for the microcontroller can be found in the Arduino Code folder. The foldder "Frontend tool" provides a simple python GUI for interfacing with the polarimeter. 
