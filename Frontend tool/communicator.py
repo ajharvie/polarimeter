@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
+#
 """
-Created on Mon Nov 26 12:40:38 2018
 
-@author: andrewjh
 """
 
 import serial
