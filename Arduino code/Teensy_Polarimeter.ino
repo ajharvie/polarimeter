@@ -73,8 +73,6 @@ float maxmag = 0.0;
 volatile int count = 0;
 int lastcount = 0;
 int grabcount = 0;
-int avstart = 0;
-float degconv;
 float peakLeft;
 float peakCentre;
 float peakRight;
@@ -160,7 +158,7 @@ void initialise(){
   peakLeft = abs(leftBin);
   peakCentre = abs(centreBin);
   peakRight = abs(rightBin);
-  //using Candan's method
+  // Interpolate for peak
   delta = 2*((peakRight-peakLeft)/(2*peakCentre+peakLeft+peakRight));
   
   digitalWrite(ledPin, LOW); //LED off after initialisation step
