@@ -1,5 +1,5 @@
-#
-#
+# A lightweight gui for interfacing with the polarimeter.
+# Requires PyQt4
 #
 #
 #
