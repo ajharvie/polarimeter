@@ -1,4 +1,4 @@
-**A High-Performance Polarimeter Formed from Inexpensive Optical Parts**
+**A high-resolution polarimeter formed from inexpensive optical parts**
 
 Firmware and supporting data for a polarimeter as described in an upcoming publication. 
 
