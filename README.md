@@ -1,5 +1,3 @@
-**Opol: An Open Polarimeter**
-
 Firmware and supporting data for a polarimeter as described in Scientific Reports: **A high-resolution polarimeter formed from inexpensive optical parts** https://doi.org/10.1038/s41598-020-61715-7
 
 Code for the microcontroller can be found in the "Arduino Code" folder. The folder "Frontend tool" provides a simple python GUI for interfacing with the polarimeter. 
