@@ -7,3 +7,5 @@ Code for the microcontroller can be found in the "Arduino Code" folder. The fold
 "Supporting Files" contains code for recording optical signals and simulating polarimeter behaviour, as well as data files for the plots presented in the paper.
 
 *A.J. Harvie, T.W. Phillips and J.C. deMello*
+
+**A new version is in development - you can find the design files here: https://github.com/OpenPolarimeter/OPol with a publication and build guide forthcoming**
