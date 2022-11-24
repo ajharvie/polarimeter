@@ -6,4 +6,4 @@ Code for the microcontroller can be found in the "Arduino Code" folder. The fold
 
 *A.J. Harvie, T.W. Phillips and J.C. deMello*
 
-**A new version is in development - you can find the design files here: https://github.com/OpenPolarimeter/OPol with a publication and build guide forthcoming**
+**A new version - OPol - has been released. You can find the design files here: https://github.com/OpenPolarimeter/OPol, and a publication describing its build and use here: https://doi.org/10.1002/cmtd.202000057**
